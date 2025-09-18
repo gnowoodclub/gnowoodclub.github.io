@@ -1,0 +1,21 @@
+{
+  "name": "gnowoodclub.github.io",
+  "version": "1.0.0",
+  "description": "Website for GNO Woodworkers Club",
+  "homepage": "https://github.com/gnowoodclub/gnowoodclub.github.io#readme",
+  "bugs": {
+    "url": "https://github.com/gnowoodclub/gnowoodclub.github.io/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnowoodclub/gnowoodclub.github.io.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "bundle exec jekyll serve --livereload"
+  }
+}

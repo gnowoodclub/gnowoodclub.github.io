@@ -30,7 +30,7 @@ url: "https://gnowood.club" # the base hostname & protocol for your site, e.g. h
 
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 
